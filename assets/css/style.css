@@ -140,9 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width:  821px){
   
-  #topbar .contact-info .d-flex .align-items-center{
-    display: none;
-  }
+  
 
   #topbar .contact-info a{
     display: none;
