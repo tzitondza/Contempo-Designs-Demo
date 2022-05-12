@@ -109,6 +109,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
   padding: 0;
   color: rgba(255, 255, 255, 0.6);
+  display:flex;
 }
 #topbar .contact-info a {
   line-height: 0;
@@ -140,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width:  821px){
   
   #topbar{
-    display:flex;
+    display: none;
   }
 
   #topbar .contact-info a{
