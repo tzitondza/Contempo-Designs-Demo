@@ -1,0 +1,23 @@
+{
+  "name": "contempo-designs",
+  "version": "1.0.0",
+  "description": "contempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "contempo-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zweli-Sa/Contempo-Designs-Demo.git"
+  },
+  "keywords": [
+    "contempo"
+  ],
+  "author": "Zweli-Sa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zweli-Sa/Contempo-Designs-Demo/issues"
+  },
+  "homepage": "https://github.com/Zweli-Sa/Contempo-Designs-Demo#readme",
+  "dependencies": {}
+}
