@@ -4,7 +4,7 @@
   "description": "contempo",
   "main": "index.js",
   "scripts": {
-    "test": "contempo-test"
+    "test": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
     "url": "https://github.com/Zweli-Sa/Contempo-Designs-Demo/issues"
   },
   "homepage": "https://github.com/Zweli-Sa/Contempo-Designs-Demo#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
 }
